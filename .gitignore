@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ignore config file
 config.py
 
@@ -9,3 +10,7 @@ Random_Numbers.ipynb
 __pycache__/
 *.py[cod]
 *$py.class
+=======
+*.py
+*.pyc
+>>>>>>> 2ab8780c8ea0ce4165cafa6839a243c45d737d8c
